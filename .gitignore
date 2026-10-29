@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Secrets. This repo is intended to be public -- never commit the key.
+.env
+.env.*
+!.env.example
+
+# Cached annual report PDFs pulled by the harvester
+data/raw/reports/
+
+# EBA source files are ~130 MB and re-fetchable: scripts/fetch_data.py
+data/raw/tr_cre.csv
+data/raw/tr_oth.csv
+data/raw/TR_Metadata.xlsx
+data/raw/SDD.xlsx
+
+# The disclosure corpus IS tracked -- it is hand-curated input, not a download.
+!data/raw/disclosure_corpus.json

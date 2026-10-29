@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "note": "Investor-relations entry points for the highest-pressure names. The harvester crawls these for annual reports, results presentations and interim statements, then extracts passages discussing non-performing exposures. 'lang' drives which keyword set is applied. 'direct_pdfs' are report URLs resolved by loading the IR page in a real browser; most of these sites render their document lists in JavaScript so a plain HTTP fetch finds nothing.",
+  "sources": [
+    {
+      "lei": "DZZ47B9A52ZJ6LT6VV95",
+      "bank": "Deutsche Pfandbriefbank AG",
+      "country": "DE",
+      "lang": "de",
+      "pages": [
+        "https://www.pfandbriefbank.com/en/investors.html",
+        "https://www.pfandbriefbank.com/en/investors/reports.html"
+      ],
+      "direct_pdfs": [
+        "https://www.pfandbriefbank.com/fileadmin/user_upload/Geschaeftsbericht_2025/Annual_Report_2025.pdf",
+        "https://www.pfandbriefbank.com/fileadmin/user_upload/downloads/investor_relations/reports/Semi_Annual_Financial_Report_2026.pdf"
+      ]
+    },
+    {
+      "lei": "DIZES5CFO5K3I5R58746",
+      "bank": "Landesbank Hessen-Thueringen Girozentrale",
+      "country": "DE",
+      "lang": "de",
+      "pages": [
+        "https://www.helaba.com/int/investors/",
+        "https://www.helaba.com/int/the-bank/investor-relations/reports-and-presentations/"
+      ],
+      "direct_pdfs": [
+        "https://www.helaba.com/media/docs/int/investor-relations/publications/annual-reports/annual-reports-2025/annual-report-2025.pdf",
+        "https://www.helaba.com/media/docs/int/investor-relations/publications/annual-reports/annual-reports-2026/half-yearly-financial-report-2026.pdf"
+      ]
+    },
+    {
+      "lei": "FR9695005MSX1OYEMGDF",
+      "bank": "Groupe BPCE",
+      "country": "FR",
+      "lang": "fr",
+      "pages": [
+        "https://groupebpce.com/en/investors",
+        "https://groupebpce.com/en/investors/results-and-publications"
+      ]
+    },
+    {
+      "lei": "5493006QMFDDMYWIAM13",
+      "bank": "Banco Santander, S.A.",
+      "country": "ES",
+      "lang": "es",
+      "pages": [
+        "https://www.santander.com/en/shareholders-and-investors",
+        "https://www.santander.com/en/shareholders-and-investors/financial-and-economic-information"
+      ]
+    },
+    {
+      "lei": "J4CP7MHCXR8DAQMKIL78",
+      "bank": "Banca Monte dei Paschi di Siena S.p.A.",
+      "country": "IT",
+      "lang": "it",
+      "pages": [
+        "https://www.gruppomps.it/en/investor-relations",
+        "https://www.gruppomps.it/en/investor-relations/financial-reports.html"
+      ],
+      "direct_pdfs": [
+        "https://www.gruppomps.it/static/upload/_con/consolidated-half-yearly-report-2026.pdf",
+        "https://www.gruppomps.it/static/upload/fin/financial-results-2q26-hy26-presentation.pdf"
+      ]
+    },
+    {
+      "lei": "969500STN7T9MRUMJ267",
+      "bank": "Bpifrance",
+      "country": "FR",
+      "lang": "fr",
+      "pages": [
+        "https://www.bpifrance.com/our-publications/",
+        "https://www.bpifrance.fr/nos-publications/"
+      ]
+    },
+    {
+      "lei": "O2RNE8IBXP4R0TD8PU41",
+      "bank": "Societe generale S.A.",
+      "country": "FR",
+      "lang": "fr",
+      "pages": [
+        "https://investors.societegenerale.com/en",
+        "https://investors.societegenerale.com/en/financial-and-non-financial-information/financial-results"
+      ]
+    },
+    {
+      "lei": "R0MUWSFPU8MPRO8K5P83",
+      "bank": "BNP Paribas",
+      "country": "FR",
+      "lang": "fr",
+      "pages": [
+        "https://invest.bnpparibas/en/results",
+        "https://invest.bnpparibas/en/registration-documents-annual-financial-reports"
+      ]
+    },
+    {
+      "lei": "815600E4E6DCD2D25E30",
+      "bank": "BANCO BPM SOCIETA' PER AZIONI",
+      "country": "IT",
+      "lang": "it",
+      "pages": [
+        "https://gruppo.bancobpm.it/en/investor-relations/",
+        "https://gruppo.bancobpm.it/en/investor-relations/financial-reports/"
+      ]
+    },
+    {
+      "lei": "7LTWFZYICNSX8D621K86",
+      "bank": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+      "country": "DE",
+      "lang": "de",
+      "pages": [
+        "https://investor-relations.db.com/reports-and-events/annual-reports/",
+        "https://investor-relations.db.com/"
+      ]
+    },
+    {
+      "lei": "549300TRUWO2CD2G5692",
+      "bank": "UNICREDIT, SOCIETA' PER AZIONI",
+      "country": "IT",
+      "lang": "it",
+      "pages": [
+        "https://www.unicreditgroup.eu/en/investors.html",
+        "https://www.unicreditgroup.eu/en/investors/financial-reporting.html"
+      ],
+      "direct_pdfs": [
+        "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/investors/financial-reports/2025/4q25/2025-Annual-Reports-and-Accounts.pdf"
+      ]
+    },
+    {
+      "lei": "K8MS7FD7N5Z2WQ51AZ71",
+      "bank": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "country": "ES",
+      "lang": "es",
+      "pages": [
+        "https://shareholdersandinvestors.bbva.com/",
+        "https://shareholdersandinvestors.bbva.com/financials/financial-reports/"
+      ]
+    },
+    {
+      "lei": "SI5RG2M0WQQLZCXKRM20",
+      "bank": "Banco de Sabadell, S.A.",
+      "country": "ES",
+      "lang": "es",
+      "pages": [
+        "https://www.grupbancsabadell.com/en/investor-relations/",
+        "https://www.grupbancsabadell.com/en/financial-information/"
+      ]
+    },
+    {
+      "lei": "TUKDD90GPC79G1KOE162",
+      "bank": "Hamburg Commercial Bank AG",
+      "country": "DE",
+      "lang": "de",
+      "pages": [
+        "https://www.hcob-bank.com/en/investoren/",
+        "https://www.hcob-bank.de/en/investoren/berichte/"
+      ]
+    },
+    {
+      "lei": "9695000CG7B84NLR5984",
+      "bank": "Confederation Nationale du Credit Mutuel",
+      "country": "FR",
+      "lang": "fr",
+      "pages": [
+        "https://www.creditmutuel.com/en/financial-information.html",
+        "https://www.creditmutuel.com/fr/informations-financieres.html"
+      ]
+    }
+  ]
+}

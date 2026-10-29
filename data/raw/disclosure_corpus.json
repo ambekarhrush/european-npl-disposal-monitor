@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "provenance_warning": "Every entry in this file is VERIFIED_VERBATIM: the quote was located in the PDF it cites by scripts/promote_candidates.py, which re-opens the cached source document and matches the text. Nothing here is paraphrased, summarised or model-generated. Entries that cannot be located in their stated source are rejected and never written. A bank absent from this file has not been read yet and is reported downstream as 'intent unconfirmed' -- never as silent.",
+  "field_notes": {
+    "quote": "Verbatim passage copied from the source document. Never paraphrased.",
+    "source_url": "Direct link to the PDF the quote was taken from.",
+    "page_no": "Page of that PDF where the passage was located.",
+    "provenance": "VERIFIED_VERBATIM only. Set by scripts/promote_candidates.py after the quote is mechanically located in the source PDF.",
+    "workflow": "scripts/harvest_disclosures.py finds candidates -> review -> scripts/promote_candidates.py --apply verifies and writes them here."
+  },
+  "entries": [
+    {
+      "lei": "549300TRUWO2CD2G5692",
+      "bank": "UNICREDIT, SOCIETA' PER AZIONI",
+      "country": "",
+      "source_document": "2025-Annual-Reports-and-Accounts.pdf",
+      "source_url": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/investors/financial-reports/2025/4q25/2025-Annual-Reports-and-Accounts.pdf",
+      "period": "2025",
+      "quote": "The aforementioned strategies concerning impaired loans include: • an effective internal restructuring activity, aiming at bringing fully back to bonis the portfolio thanks to qualified resources with specific skills dedicated to the management of loans classified as unlikely to pay; • proactive portfolio management through judicial and extra-judicial procedures managed by internal Workout professionals or assigned to external agencies specialised in credit recovery; • optimization of recovery performance thanks to formalised partnerships with specialised servicers; • disposal of impaired loans as further strategy for internal recovery both for individual positions and for portfolios of impaired loans, already classified as bad loans and unlikely to pay.",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 557
+    },
+    {
+      "lei": "549300TRUWO2CD2G5692",
+      "bank": "UNICREDIT, SOCIETA' PER AZIONI",
+      "country": "",
+      "source_document": "2025-Annual-Reports-and-Accounts.pdf",
+      "source_url": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/investors/financial-reports/2025/4q25/2025-Annual-Reports-and-Accounts.pdf",
+      "period": "2025",
+      "quote": "The aforementioned strategies concerning impaired loans include: • an effective internal restructuring activity, supported by qualified resources with specific skills dedicated to the management of loans classified as unlikely to pay; within these activities, ad-hoc approaches are then envisaged for positions considered strategic or referring to the Corporate and Real Estate segment; • proactive portfolio management through judicial and extra-judicial procedures managed by internal Workout professionals or assigned to external agencies specialised in credit recovery; • the recourse of alternative recovery strategies (which UniCredit was one of the first banks to use) based on formalised partnerships aimed at managing positions in the industrial or Real Estate sector; • disposal of impaired loans as a further strategy for internal recovery both for individual positions and for portfolios of impaired loans, already classified as bad loans and unlikely to pay.",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 922
+    },
+    {
+      "lei": "549300TRUWO2CD2G5692",
+      "bank": "UNICREDIT, SOCIETA' PER AZIONI",
+      "country": "",
+      "source_document": "2025-Annual-Reports-and-Accounts.pdf",
+      "source_url": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/investors/financial-reports/2025/4q25/2025-Annual-Reports-and-Accounts.pdf",
+      "period": "2025",
+      "quote": "The Non-Performing Exposure (NPE) Strategy represents the basis on which specialised debt collection processes are developed. The NPE Strategy defines, at both the Group and Legal Entity level, the qualitative NPE management approach and quantitative time-bound targets by time- horizon and dynamics (write-off, recoveries, disposals, flows etc.) with the goal of managing NPE stock in a clear, credible, and feasible manner.",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 544
+    },
+    {
+      "lei": "K8MS7FD7N5Z2WQ51AZ71",
+      "bank": "Banco Bilbao Vizcaya Argentaria, S.A.",
+      "country": "",
+      "source_document": "Annual-Report-BBVA-2025_ENG.pdf",
+      "source_url": "https://shareholdersandinvestors.bbva.com/wp-content/uploads/2026/03/Annual-Report-BBVA-2025_ENG.pdf",
+      "period": "2025",
+      "quote": "registered a year-on-year growth of 3.4% in October 2025, due to the contraction in time deposits ( -4.8% year-on-year), which was partially offset by 7.9% growth in demand deposits. Finally, the system's NPL ratio continued on a downward trend, reaching a rate of 3.26% in November 2025. Activity and results – Lending activity grew by 4.4% compared to the end of December 2024, focused on the retail portfolios, mainly consumer loans (+19.3%) and mortgages (+9.2%), which more than offset the deleveraging in the wholesale portfolios (-0.7%).",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 368
+    },
+    {
+      "lei": "DZZ47B9A52ZJ6LT6VV95",
+      "bank": "Deutsche Pfandbriefbank AG",
+      "country": "",
+      "source_document": "Annual_Report_2025.pdf",
+      "source_url": "https://www.pfandbriefbank.com/fileadmin/user_upload/Geschaeftsbericht_2025/Annual_Report_2025.pdf",
+      "period": "2025",
+      "quote": "The aim of the reporting is to identify any deviations from the NPL strategy, to check whether the reduction targets defined in the strategy have been triggered, and to propose appropriate countermeasures if necessary.",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 47
+    },
+    {
+      "lei": "DZZ47B9A52ZJ6LT6VV95",
+      "bank": "Deutsche Pfandbriefbank AG",
+      "country": "",
+      "source_document": "Annual_Report_2025.pdf",
+      "source_url": "https://www.pfandbriefbank.com/fileadmin/user_upload/Geschaeftsbericht_2025/Annual_Report_2025.pdf",
+      "period": "2025",
+      "quote": "In June 2025, pbb decided to completely discontinue its US business and intends to reduce, securitise or sell its portfolio there in a manner that preserves value. As part of this process, pbb completed a significant risk transfer (SRT) on a synthetic basis in December 2025 with several funds managed by Oaktree Capital Management, L.P. (“Oaktree”), a global investment manager headquartered in the US. Oaktree has assumed credit risk hedging for a mezzanine tranche of the majority of pbb's non-performing US portfolio in the amount of approximately USD 321 million. The underlying US portfolio mainly comprises loans secured by office properties. As at 31 December 2025, the underlying loans had a car- rying amount of €1,791 million and a fair value of €1,758 million, 95% of which is recognised in the significant risk trans- fer. The mezzanine tranche is effective after a first loss piece to be borne by pbb. The underlying loans were provided for with stage 2 credit loss allowances as at 31 December.",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 117
+    },
+    {
+      "lei": "DZZ47B9A52ZJ6LT6VV95",
+      "bank": "Deutsche Pfandbriefbank AG",
+      "country": "",
+      "source_document": "Annual_Report_2025.pdf",
+      "source_url": "https://www.pfandbriefbank.com/fileadmin/user_upload/Geschaeftsbericht_2025/Annual_Report_2025.pdf",
+      "period": "2025",
+      "quote": "The report is first discussed on a quarterly basis by the NPL Committee (consisting of the CCO, a representa- tive of the FR&C division, and the Head of CRM REF Workout) and then, once approved, made available to the Management Board and the RLA of the Supervisory Board. The NPL Committee analyses the NPL portfo- lio and its development, derives measures where necessary, and submits these recommendations for action to the management body.",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 47
+    },
+    {
+      "lei": "DZZ47B9A52ZJ6LT6VV95",
+      "bank": "Deutsche Pfandbriefbank AG",
+      "country": "",
+      "source_document": "Semi_Annual_Financial_Report_2026.pdf",
+      "source_url": "https://www.pfandbriefbank.com/fileadmin/user_upload/downloads/investor_relations/reports/Semi_Annual_Financial_Report_2026.pdf",
+      "period": "2025",
+      "quote": "Credit Risk Reports Compared to the description of Credit Risk Reports in the 2025 Annual Report, the following change occurred in the first half of 2026:  The quarterly Non-Performing Loan (NPL) reporting sets out the development of pbb’s NPL portfolio and NPL ratio. The aim of the reporting is to identify any deviations from the NPL strategy, to verify whether the reduc- tion targets defined in the strategy have been triggered, and to propose appropriate countermeasures where necessary. The report is usually discussed by the NPL Committee (comprising the CCO, the Head of FRC, the Head of CRM Workout and a further representative from the FRC division) and made available to the Man- agement Board and the RLA of the Supervisory Board. The NPL Committee analyses the NPL portfolio and its development, derives measures where necessary and submits these recommendations for action to the man- agement body.",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 17
+    },
+    {
+      "lei": "DZZ47B9A52ZJ6LT6VV95",
+      "bank": "Deutsche Pfandbriefbank AG",
+      "country": "",
+      "source_document": "Semi_Annual_Financial_Report_2026.pdf",
+      "source_url": "https://www.pfandbriefbank.com/fileadmin/user_upload/downloads/investor_relations/reports/Semi_Annual_Financial_Report_2026.pdf",
+      "period": "2025",
+      "quote": "Watchlist and Non-performing Loans DEVELOPMENT OF WATCHLIST AND NON-PERFORMING LOANS OF PBB GROUP 30.6.2026 31.12.2025 Change EaD in € million REFS NC Total REFS NC Total in € million in % Workout loans 124 - 124 131 - 131 -7 -5.3 Restructuring loans 2,203 - 2,203 2,192 - 2,192 11 0.5 Non-performing loans 2,327 - 2,327 2,323 - 2,323 4 0.2 Watchlist loans 773 - 773 1,317 13 1,330 -557 -41.9",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 25
+    },
+    {
+      "lei": "DZZ47B9A52ZJ6LT6VV95",
+      "bank": "Deutsche Pfandbriefbank AG",
+      "country": "",
+      "source_document": "Semi_Annual_Financial_Report_2026.pdf",
+      "source_url": "https://www.pfandbriefbank.com/fileadmin/user_upload/downloads/investor_relations/reports/Semi_Annual_Financial_Report_2026.pdf",
+      "period": "2025",
+      "quote": "Group Interim Management Report Risk and Opportunity Report Deutsche Pfandbriefbank Group Semi Annual Financial Report as of 30 June 2026 26 Problem loans increased by a net total of €4 million in the first half of 2026. In the REFS segment, taking into account a partial repayment of €75 million during the reporting period, loans totalling €379 million were newly classified as non- performing loans. Around 77% of these were loans for office properties in Germany. From the portfolio of restructuring loans as at 31 December 2025, loans totalling €329 million were repaid in full. In addition, there were net reductions in exposure of €39 million, which included not only partial repayments but also increases and reductions, as well as curren- cy effects. In the case of workout loans, an exposure of €14 million was repaid during the reporting period. Furthermore, the volume of existing workout loans increased by €6 million. Of the portfolio of non-performing loans as at 30 June 2026, €524 million was attributable to the USA (31 December 2025: €909 million).",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 26
+    },
+    {
+      "lei": "J4CP7MHCXR8DAQMKIL78",
+      "bank": "Banca Monte dei Paschi di Siena S.p.A.",
+      "country": "",
+      "source_document": "consolidated-half-yearly-report-2026.pdf",
+      "source_url": "https://www.gruppomps.it/static/upload/_con/consolidated-half-yearly-report-2026.pdf",
+      "period": "2025",
+      "quote": "17 Significant events in the first half of 2026 On 28 January 2026, Banca MPS, together with the Italian Interbank Deposit Protection Fund (FITD), BPER Banca S.p.A., Banco BPM S.p.A., Intesa Sanpaolo S.p.A., UniCredit S.p.A. and Banca Progetto S.p.A. under extraordinary administration (BP), signed a binding term sheet for a restructuring transaction in favour of BP. The restructuring transaction provided for the participation of the FITD and the above -mentioned five leading Italian banks in the de -risking of BP's performing and non -performing assets, the recapitalisation of BP itself by the FITD and the subsequent sale to the five banks (through BP Holding, a company held in equal shares by them) of the share of BP capital subscribed by the FITD, with the FITD retaining a stake equal to 10% minus one share. AMCO – Asset Management Company S.p.A. also took part in the transaction for the de-risking of non-performing assets, together with other institutional investors for the de -risking of performing assets.",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 18
+    },
+    {
+      "lei": "J4CP7MHCXR8DAQMKIL78",
+      "bank": "Banca Monte dei Paschi di Siena S.p.A.",
+      "country": "",
+      "source_document": "consolidated-half-yearly-report-2026.pdf",
+      "source_url": "https://www.gruppomps.it/static/upload/_con/consolidated-half-yearly-report-2026.pdf",
+      "period": "2025",
+      "quote": "• The item “ Net profit (loss) from trading, fair value measurement of assets/liabilities and gains on disposals/repurchases” includes the values of the following financial statement items: - 80 'Net profit (loss) from trading', stripped of (i) interest accrued on the pay and receive legs of trading asset swaps (EUR +22.7 mln, reclassified to 'Net interest income'), and (ii) fees and commissions on trading asset swaps (EUR -0.6 mln), reclassified to 'Net fee and commission income'; - 100 \"Profit (Loss) from disposal or repurchase\", net of the contribution of customer loans (EUR +21.4 mln, taken to the reclassified item \"Cost of customer credit\"); - 110 “Net profit (loss) from other financial assets and liabilities measured at fair value through profit and loss”, net of the contribution of loans to customers (EUR +0.3 mln) and securities deriving from disposal/securitisation of non-performing loans (EUR -1.2 mln), reclassified under the reclassified item “Cost of customer credit”.",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 26
+    },
+    {
+      "lei": "J4CP7MHCXR8DAQMKIL78",
+      "bank": "Banca Monte dei Paschi di Siena S.p.A.",
+      "country": "",
+      "source_document": "consolidated-half-yearly-report-2026.pdf",
+      "source_url": "https://www.gruppomps.it/static/upload/_con/consolidated-half-yearly-report-2026.pdf",
+      "period": "2025",
+      "quote": "• The item “ Cost of customer credit ” includes the income statement components relating to loans to customers of financial statement items 100a “Gains (losses) on disposal/repurchase of financial assets measured at amortised cost” (+EUR 21.4 mln), 110b “Net profit (loss) on financial assets and liabilities mandatorily measured at fair value ” (+EUR 0.3 mln), 130a “Net impairment (losses)/reversals for credit risk on financial assets measured at amortised cost” (-EUR 189.1 mln), 140 “Gains/losses from contractual changes without cancellation ” (-EUR 0.6 mln) and 200a “Net provisions for risks and charges - commitments and guarantees issued” (-EUR 15.5 mln). The item also includes the economic components relating to securities deriving from the transfer/securitisation of non-performing loans recognised in item 110b “Net result of other Financial assets mandatorily measured at fair value” (-1.2 mln euro).",
+      "provenance": "VERIFIED_VERBATIM",
+      "verification": "Located in source PDF by scripts/promote_candidates.py",
+      "page_no": 28
+    }
+  ]
+}

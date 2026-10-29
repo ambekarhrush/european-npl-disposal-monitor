@@ -1,0 +1,22 @@
+# Verified against Python 3.12.
+pandas>=2.2
+numpy>=1.26
+plotly>=5.22
+kaleido>=0.2            # static PNG export for the README figures
+requests>=2.31
+openpyxl>=3.1           # reads the EBA metadata workbook
+
+# Notebooks
+jupyterlab>=4.0
+nbformat>=5.9
+nbconvert>=7.10
+ipykernel>=6.29
+
+beautifulsoup4>=4.12  # IR page parsing
+pypdf>=4.0            # annual report text extraction
+
+# Enables the live LLM path in src/intent.py. DeepSeek serves an
+# OpenAI-compatible API, so the official openai SDK drives it via base_url.
+# Without DEEPSEEK_API_KEY the intent layer falls back to a deterministic
+# keyword scorer and everything else runs unchanged.
+openai>=1.40
