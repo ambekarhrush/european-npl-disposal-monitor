@@ -1,5 +1,7 @@
 # European NPL Disposal Pipeline Monitor
 
+[Editable project brief](docs/project-brief.md)
+
 **Which European banks are most likely to bring loan portfolios to market in the next twelve months — and why.**
 
 A screen over 48 significant banks in Italy, Spain, Germany and France, built from
@@ -13,7 +15,7 @@ upper-left: a large non-performing book that has not been provisioned for. Banks
 right of the dotted line can sell near carrying value; banks left of it take a
 P&L hit to transact, which is why they wait.*
 
-**[One-page summary (PDF)](docs/Ambekar_NPL-Monitor_one-pager.pdf)** · Interactive dashboard
+**[One-page summary (PDF)](docs/project-brief.pdf)** · Interactive dashboard
 with per-bank drill-down: **[`docs/dashboard.html`](docs/dashboard.html)**
 
 ---
